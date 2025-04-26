@@ -138,10 +138,9 @@ def clean_dataframe(df):
 # Process any pending drag updates
 process_drag_update()
 
-# Title and description
 # Title and description with custom design
 st.markdown("""
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 16px;">
     <h1 style="margin-top: 10px; color: #1E88E5; font-size: 3rem; font-weight: bold;">
         🏆🎓 CertificateSaathi.AI 🤖
     </h1>
