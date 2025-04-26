@@ -144,7 +144,7 @@ st.markdown("""
     <h1 style="margin-top: 10px; color: #1E88E5; font-size: 3rem; font-weight: bold;">
         🏆🎓 CertificateSaathi.AI 🤖
     </h1>
-    <p style="color: #0D47A1; font-size: 1.2rem; font-weight: 500;">
+    <p style="color: #FFC0CB; font-size: 1.2rem; font-weight: 500;">
         Generate & Send Bulk Certificates Instantly! 🏆⚡🎯
     </p>
     <p style="color: #555; font-size: 1rem;">
