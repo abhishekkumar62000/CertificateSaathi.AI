@@ -197,7 +197,7 @@ This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
 **📸 Developer Profile Image**:- <h2>📸 Developer Profile Image</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/57bebc2e-722d-4016-83b2-8b9c6dc33cd5" width="220" height="220" style="border-radius: 50%; object-fit: cover;" alt="Developer Photo">
+  <img src="https://github.com/user-attachments/assets/57bebc2e-722d-4016-83b2-8b9c6dc33cd5" width="300" height="300" style="border-radius: 80%; object-fit: cover;" alt="Developer Photo">
 </p>
 
 
