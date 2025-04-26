@@ -139,6 +139,7 @@ def clean_dataframe(df):
 process_drag_update()
 
 # Title and description
+<h1 style="margin-top: 10px; color: #1E88E5;">CertificateSaathi.AI</h1>
 st.title("🏆🎓CertificateSaathi.AI🤖 ")
 st.subheader("Generate & Send Bulk Certificates Instantly!🏆⚡🎯")
 st.markdown("""
