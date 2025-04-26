@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/e570fc02-a32b-48c6-9fdf-36606e8cd66a)
 ![App Frontend](https://github.com/user-attachments/assets/be0553e7-dc02-4c5b-84e4-d8a91143284d)
 
-Live App🚨:-- https://certificate-saathi-ai.streamlit.app/
+🤖Live App🚨:-- https://certificate-saathi-ai.streamlit.app/
 
 --- 
 
