@@ -1,0 +1,8 @@
+streamlit
+openpyxl
+pillow
+pandas
+qrcode
+smtplib
+ssl
+email
