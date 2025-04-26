@@ -139,12 +139,21 @@ def clean_dataframe(df):
 process_drag_update()
 
 # Title and description
-st.title("🏆🎓CertificateSaathi.AI🤖 ")
-st.subheader("Generate & Send Bulk Certificates Instantly!🏆⚡🎯")
+# Title and description with custom design
 st.markdown("""
-"Create Stunning Certificates in Seconds! Upload your Excel participant list and certificate template, 
-easily position text fields with drag-and-drop, and download all certificates at once. Quick, easy, and professional!
-""")
+<div style="text-align: center; margin-bottom: 20px;">
+    <h1 style="margin-top: 10px; color: #1E88E5; font-size: 3rem; font-weight: bold;">
+        🏆🎓 CertificateSaathi.AI 🤖
+    </h1>
+    <p style="color: #0D47A1; font-size: 1.2rem; font-weight: 500;">
+        Generate & Send Bulk Certificates Instantly! 🏆⚡🎯
+    </p>
+    <p style="color: #555; font-size: 1rem;">
+        Create stunning certificates in seconds! Upload your Excel participant list and certificate template, 
+        easily position text fields with drag-and-drop, and download all certificates at once. Quick, easy, and professional!
+    </p>
+</div>
+""", unsafe_allow_html=True)
 
 # Show errors if any
 if st.session_state.errors:
