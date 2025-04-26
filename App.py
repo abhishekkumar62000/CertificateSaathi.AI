@@ -147,7 +147,7 @@ st.markdown("""
     <p style="color: #FFC0CB; font-size: 1.2rem; font-weight: 500;">
         Generate & Send Bulk Certificates Instantly! 🏆⚡🎯
     </p>
-    <p style="color: #555; font-size: 1rem;">
+    <p style="color: #008000; font-size: 1rem;">
         Create stunning certificates in seconds! Upload your Excel participant list and certificate template, 
         easily position text fields with drag-and-drop, and download all certificates at once. Quick, easy, and professional!
     </p>
