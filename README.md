@@ -194,9 +194,11 @@ This project is licensed under <a href="./LICENSE">MIT</a>. <img width=2300/>
 **📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
 **🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
 **🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
-**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+**📸 Developer Profile Image**:- <h2>📸 Developer Profile Image</h2>
 
-![pic](https://github.com/user-attachments/assets/57bebc2e-722d-4016-83b2-8b9c6dc33cd5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57bebc2e-722d-4016-83b2-8b9c6dc33cd5" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Developer Photo">
+</p>
 
 
 </div>  
